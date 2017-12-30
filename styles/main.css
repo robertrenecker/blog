@@ -1,5 +1,7 @@
 .darkBG{
 	background: #999;
+	border-width:10px;
+	border-color:black;
 }
 
 .darkerBG {
